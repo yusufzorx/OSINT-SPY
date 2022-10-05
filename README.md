@@ -41,13 +41,14 @@ OSINT-SPY and its documents are covered with GPL-3.0 (General Public License v3.
         Usage: osint-spy.py [options]
         Options:
         -h,            --help                    show this help message and exit
-        --btc_block                              Get latest bitcoin block info
+        --btc_block#                               Get latest bitcoin block info
         --btc_date                               Get bitcoin block info by date, example - 20190614
         --btc_address                            Get info of any bitcoin wallet address
         --ssl_cipher                             List out supported SSL ciphers used by any domain
         --ssl_bleed                              Check whether server is vulnerable to heart bleed or not
         --domain                                 Do domain recon
-        --email                                  Do email recon
+        --email                                  Do email recon```python
+
         --device                                 Explore the Internet of Things. Example - opensips,asterisk,juniper,windows10
         --ip                                     WHOIS IP Lookup
         --malware                                Send files to VirusTotal for malware analysis
@@ -56,6 +57,7 @@ OSINT-SPY and its documents are covered with GPL-3.0 (General Public License v3.
 ```
 
 # Contributors
+```
 	1. Sharad Kumar - @sk_security <twitter handler>
 
 # Documentation
